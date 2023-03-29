@@ -1,0 +1,11 @@
+{
+    "nome": "Pedro",
+    "email": "pedro@email.com",
+    "telefone": ["31999999999", "31988888888"],
+    "endereco": {
+        "rua": "R. Josaeph Climber",
+        "numero": 202,
+        "apt": true,
+        "complemento": "apt 934"
+    }
+}
